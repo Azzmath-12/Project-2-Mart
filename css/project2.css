@@ -88,6 +88,11 @@
     cursor: pointer;
 }
 
+.button1:hover {
+background-color: var(--color1);
+border: 2px solid var(--color1, #1abc9c);
+}
+
 /* Icon Content  */
 .container1 {
     display: flex;
